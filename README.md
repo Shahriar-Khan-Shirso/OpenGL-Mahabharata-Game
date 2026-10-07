@@ -3,7 +3,7 @@
 The story of Mahabharata is one of the oldest and refined mythology to exist.This project shows a simplified version of day 1 in mahabharata.This is a very simple OpenGL project completed for the completion of Computer Graphics course(CSE 423\) in Brac.This project involves creating a 3D game in which the player plays as Arjuna, who controls a bow that can move and cast special “Divine Astras” (spells) at enemies. The game environment includes a grid, moving enemies and features such as day night modes and camera controls. The game also contains visual feedback on the player's actions and the status of the game.
 
 **Gaming Setup:**  
- At the start of the game the player spawns at the center of the grid.
+Install OpenGL,Pygame for your environment's appropriate version.To play with music,open the "Astra with Music.py" file.
 
 **Drawing Components:**
 
